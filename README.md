@@ -14,7 +14,6 @@ Hello 👋🏼 My name is Niño and I am a developer with 3 years of professiona
   - ✅ Express, Mocha, Socket.io
   - ✅ Compass, Robo 3T
 - 🤙🏼 You can reach me via (anytime):
-  - LinkedIn: https://www.linkedin.com/in/ninojoevelz/
   - Skype: live:ninojoevelzskype
   - Email: ninojoevelz@gmail.com
   - Phone: +63 917 510 0305
